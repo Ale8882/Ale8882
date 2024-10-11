@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ale8882
 - 👀 I’m interested in building website,Machine learning
-- 🌱 I’m currently learning other languages
+- 🌱 I’m currently learning other languages,Machine Learning
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...eddiebohnleroy@gmail.com
 - 😄 Pronouns: ...
